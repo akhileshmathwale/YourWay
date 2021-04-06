@@ -1,2 +1,2 @@
-# yourWay
+# YourWay
 Website
