@@ -42,17 +42,17 @@
   text-decoration: none;
 }
 .information{
-  width: 1000px;
-  height: 1000px;
+  width: 700px;
+  height: 700px;
   position: absolute;
   top: 50%;
-  left: -10%;
-  transform: translateY(-50%);
+  left: -5%;
+  transform: translateY(-40%);
 }
 
 #circle{
-  width: 1000px;
-  height: 1000px;
+  width: 700px;
+  height: 700px;
   position: absolute;
   top: 0;
   left: 0;
@@ -61,7 +61,7 @@
   opacity: 0.5;
 }
 .feature img{
-width: 70px;
+width: 200px;
 
 }
 .feature{
